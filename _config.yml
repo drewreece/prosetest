@@ -26,7 +26,7 @@ url: "https://drewreece.github.io/prosetest/" # the base hostname & protocol for
 
 # Build settings
 markdown: kramdown
-theme: minima
+remote_theme: jekyll/minima
 plugins:
   - jekyll-feed
 
@@ -53,4 +53,3 @@ prose:
       - name: "date"
         field:
         value: CURRENT_DATETIME
-
