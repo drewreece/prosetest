@@ -41,3 +41,16 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+prose:
+  ignore: ['404.html', '_config.yml', 'Gemfile', 'index.md', '.gitignore']
+  metadata:
+    _posts:
+      - name: "layout"
+        field:
+        element: "hidden"
+        value: "post"
+      - name: "date"
+        field:
+        value: CURRENT_DATETIME
+
