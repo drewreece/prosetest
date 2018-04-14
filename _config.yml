@@ -26,7 +26,8 @@ url: "https://drewreece.github.io/prosetest/" # the base hostname & protocol for
 
 # Build settings
 markdown: kramdown
-remote_theme: jekyll/minima
+remote_theme: "github.com/jekyll/minima"
+theme: minima
 plugins:
   - jekyll-feed
 
