@@ -44,6 +44,7 @@ plugins:
 #   - vendor/ruby/
 
 prose:
+  siteurl: 'https://drewreece.github.io/prosetest'
   ignore: ['404.html', '_config.yml', 'Gemfile', 'index.md', '.gitignore']
   metadata:
     _posts:
