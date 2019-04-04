@@ -1,6 +1,6 @@
 ---
 layout: tewtsttt
-date: '[object Object]'
+date: '2014-04-18 11:30:00 +0800'
 published: false
 ---
 ## A New Post
